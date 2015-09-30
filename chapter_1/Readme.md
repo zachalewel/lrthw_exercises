@@ -31,3 +31,7 @@ ex1.rb:8:1: C: 1 trailing blank lines detected.
 
 10:05:02 - INFO - Guard is now watching at '/Users/zachalewel/workspace/davinci_coders_t3_2015/homework/lrthw_exercises/chapter_1'
 [1] guard(main)>
+
+
+I added  ` - "''"` in the .rubocop.yml file in my master branch then I pushed that to github.
+and now it doesn't care about the " or ' 
