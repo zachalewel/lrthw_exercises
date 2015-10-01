@@ -37,3 +37,7 @@
 
      I added  ` - "''"` in the .rubocop.yml file in my master branch then I pushed that to github.
      and now it doesn't care about the " or ' 
+
+1)Why does Rubocop not complain about "Prefer single-quoted strings" on lines 6 and 7? Any thoughts?
+   
+       Yes because those single quotes are inside of a string. And to use grammar you need to use double-quoted strings.
