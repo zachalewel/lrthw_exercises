@@ -19,5 +19,4 @@ To retain information, get used to syntax, and to start building muscle memory
 4)Why is Practice and Persistence important?
 
 Practice is the only way to get a lot of exposure and persistence is a way to turn that exposure
-into a usable skill.
-
+into a usable skills.
