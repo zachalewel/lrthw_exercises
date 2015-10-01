@@ -1,20 +1,3 @@
-Ruby docs
-
-http://ruby-doc.org/core-2.2.0/Marshal.html
-
-Ruby User's Guide
-
-http://www.rubyist.net/~slagell/ruby/arrays.html
-
-The Ruby wiki book
-
-https://en.wikibooks.org/wiki/Ruby_Programming
-
-Rubydoc.info 
-
-http://www.rubydoc.info/github/nurse/strptime/master
-
-
 1) Why do you need to not copy and paste?
 
 So that you get used to typing the commands, build your muscle memory, pratice
@@ -28,4 +11,17 @@ Question) What are the three most essential skills that a beginner programmer ne
 
 Answer : Reading & writing, attention to detail, and spotting the differences.
 
+Array Doc:
+http://ruby-doc.org/core-2.2.3/Array.html
 
+Hash Doc:
+http://ruby-doc.org/core-2.2.3/Hash.html
+
+Chronic Doc:
+http://www.rubydoc.info/gems/chronic/0.10.2/Chronic
+
+Float Doc:
+http://ruby-doc.org/core-2.2.3/Float.html
+
+String Doc:
+http://ruby-doc.org/core-2.2.3/String.html
